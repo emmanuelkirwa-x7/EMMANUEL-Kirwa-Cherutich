@@ -37,15 +37,3 @@ pip install -r requirements.txt
 
 # Run the engine
 python main.py
-
-
-2. The Health Informatics Project
-Focus on data integrity, HIPAA/Compliance, and system architecture.
-"Scalable Health Information Management (HIM) system designed for automated clinical record retrieval and data integrity validation."
-"Python-driven clinical data pipeline for auditing EMR systems and ensuring compliance with medical documentation standards."
-
-
-3. The Utility/Automation Script
-Focus on efficiency and problem-solving.
-Custom automation suite for streamlining repetitive health-data entry workflows using Python."
-"Lightweight data-scraping and processing pipeline built to analyze large-scale clinical datasets with high concurrency."
