@@ -1,5 +1,15 @@
 # EMMANUEL-Kirwa-Cherutich
-(The Trading Engine (The "Apex");-
+1. The Health Informatics Project
+Focus on data integrity, HIPAA/Compliance, and system architecture.
+"Scalable Health Information Management (HIM) system designed for automated clinical record retrieval and data integrity validation."
+"Python-driven clinical data pipeline for auditing EMR systems and ensuring compliance with medical documentation standards."
+
+2. The Utility/Automation Script
+Focus on efficiency and problem-solving.
+Custom automation suite for streamlining repetitive health-data entry workflows using Python."
+"Lightweight data-scraping and processing pipeline built to analyze large-scale clinical datasets with high concurrency."
+
+3.(The Trading Engine (The "Apex");-
 High-performance algorithmic engine for identifying institutional market liquidity and automating trade execution.
 project:   # 🚀 Apex-Engine-Alpha: Predictive Algorithmic Engine
 
